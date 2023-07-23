@@ -1,0 +1,56 @@
+
+body{
+  background-color: #f1f1f1;
+}
+
+#principal{
+  margin: 0 auto;
+  width: 600px;
+}
+
+#passo1{
+  text-align: center ;
+}
+
+h1{
+  border: 3px solid black;
+  padding: 5px ;
+}
+
+h3{
+  text-align: center;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  padding: 5px;
+}
+
+h2{
+  margin: 5px;
+}
+
+p{
+  text-align: justify;
+  line-height: 30px;
+  font-size: 20px ;
+}  
+
+span{
+  font-weight: bold;
+}
+
+#whatsappBotao{
+  display: flex;
+}
+
+button{
+  margin: 0 auto;
+  border-radius: 30px;
+  padding: 20px;
+  background-color: green;
+  color: white;
+  width: fit-content;
+  align-items: center;
+  font-weight: bold;
+  border: none
+
+}
